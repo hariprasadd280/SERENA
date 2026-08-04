@@ -1,0 +1,7 @@
+{
+  "model_name": "SERENA_FER_CNN",
+  "input_shape": [48, 48, 1],
+  "num_classes": 7,
+  "classes": ["happiness", "sadness", "anger", "fear", "disgust", "surprise", "neutral"],
+  "notes": "Targeted for 48x48 grayscale FER input."
+}
